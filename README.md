@@ -1,10 +1,10 @@
 # AutoSHRTNR
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/lawja/AutoSHRTNR/master/logo.png "Logo"
+[logo]: https://raw.githubusercontent.com/lawja/AutoSHRTNR/master/img/logo.png "Logo"
 
 ## Video Demo
-[![Video Demo](https://img.youtube.com/vi/6TciM3YNzW8/0.jpg)](https://www.youtube.com/watch?v=6TciM3YNzW8)
+[![Video Demo](https://raw.githubusercontent.com/lawja/AutoSHRTNR/master/img/splash.png)](https://www.youtube.com/watch?v=6TciM3YNzW8)
 
 AutoSHRTNR is a script that shortens links that appear on the clipboard using bit.ly's API
 ## Usage
