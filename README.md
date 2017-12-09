@@ -3,7 +3,7 @@
 
 [logo]: https://raw.githubusercontent.com/lawja/AutoSHRTNR/master/logo.png "Logo"
 
-![](https://media.giphy.com/media/3ohjV6XxCB65yVM9fG/giphy.gif =750x750)
+![](https://media.giphy.com/media/3ohjV6XxCB65yVM9fG/giphy.gif)
 
 AutoSHRTNR is a script that shortens links that appear on the clipboard using bit.ly's API
 ## Usage
